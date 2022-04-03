@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textViewInfo" type="id" />
+    <item name="constraintLayout" type="id" />
+    <item name="buttonYellow" type="id" />
+</resources>
